@@ -15,7 +15,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mAzeems&style=flat-square&color=blue" alt="">
 <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"/>
 </h1>
   </div>
@@ -27,9 +27,9 @@
 
 ### :woman_technologist: About Me :
 I am a Data Science and Machine Learning Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I have previosuly worked as a Research Assistant for Digital Disruption Lab at PIEAS and implemented Deep Reinforcement Learning models for Adaptive Traffic signal control. Right now am looking for further opportunities and open to work.
+- :telescope: I have previosuly worked as a Research Assistant for Digital Disruption Lab at PIEAS and implemented Deep Reinforcement Learning models for Adaptive Traffic signal control. Right now I am open to work and looking for further opportunities to utilize my skills and enhance them.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Data Science, Machine Learning, Deep Learning & Technical Content Writing.
 
 - :zap: In my free time, I writer technical blogs and read tech articles.
 
@@ -66,5 +66,6 @@ I am a Data Science and Machine Learning Expert <img src="https://media.giphy.co
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mAzeems&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mAzeems&layout=compact&theme=dark)](https://github.com/mAzeems/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mAzeems&theme=tokyonight)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mAzeems&theme=tokyonight)
