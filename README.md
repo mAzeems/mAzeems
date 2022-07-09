@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 I am a Data Science and Machine Learning Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I have previosuly worked as a Research Assistant for Digital Disruption Lab at PIEAS and implemented Deep Reinforcement Learning models for Adaptive TRaffic signal control. Right now am looking for further opportunities and open to work.
+- :telescope: I have previosuly worked as a Research Assistant for Digital Disruption Lab at PIEAS and implemented Deep Reinforcement Learning models for Adaptive Traffic signal control. Right now am looking for further opportunities and open to work.
 
 - :seedling: Exploring Technical Content Writing.
 
